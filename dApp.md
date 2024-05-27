@@ -1,3 +1,4 @@
+```csharp
 NFRoyalTClient/
 ├── .env
 ├── index.html
@@ -7,4 +8,5 @@ NFRoyalTClient/
 ├── web3storageupload.js
 ├── nftstorageup.js
 └── ipfsup.js
+```
 
