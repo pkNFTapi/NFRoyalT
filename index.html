@@ -1,1 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NFRoyalT Client</title>
+  <script src="dapp.js" defer></script>
+  <script src="abi.js" defer></script>
+  <script src="metadata.js" defer></script>
+  <script src="web3storageupload.js" defer></script>
+  <script src="nftstorageup.js" defer></script>
+  <script src="ipfsup.js" defer></script>
+</head>
+<body>
+  <h1>NFRoyalT Client</h1>
+  <form id="api-form">
+    <label for="api-name">API Name:</label>
+    <input type="text" id="api-name" name="api-name" required>
+    <label for="api-key">API Key:</label>
+    <input type="text" id="api-key" name="api-key" required>
+    <button type="submit">Save API Key</button>
+  </form>
+
+  <h2>Token URI</h2>
+  <div id="token-uri"></div>
+  
+  <h2>API Details</h2>
+  <div id="api-details"></div>
+</body>
+</html>
 
