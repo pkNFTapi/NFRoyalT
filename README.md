@@ -1,4 +1,10 @@
 # NFRoyalT
+
+This project is the development zone that created ROYALNFT<br/>
+
+see ROYALNFT.sol for immutable royalties
+Hodl721 NFT that owns other NFT is being included in the next version of ROYALNFT to create RoyaltyCollections
+
 immutable creator commission
 
 commission: a payment to someone who sells goods that is directly related to the amount sold, or a system that uses such payments
